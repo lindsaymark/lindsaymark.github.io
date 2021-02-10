@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Amsterdam;
+    src: url("Amsterdam.otf") format("opentype");
+}
+
+p{
+    font-family: Amsterdam
+}
