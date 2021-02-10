@@ -26,15 +26,15 @@ h2{
 }
 
 .square {
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   background-color: #555;
 }
 
 .rectangle {
-    height: 250px;
-    width: 500px;
+    height: 400px;
+    width: 700px;
     background-color: #555;
-    }
+}
 
 
