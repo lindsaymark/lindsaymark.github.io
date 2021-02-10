@@ -3,10 +3,16 @@
     src: url("Amsterdam.otf") format("opentype");
 }
 
-p{
+body {
+    background-color:#DDD3CA;
+  }
+
+h1{
     font-family: Amsterdam;
+    color:#9B694D;
 }
 
-body{
+h2{
     font-family: Amsterdam;
+    color:#f0efeb;
 }
