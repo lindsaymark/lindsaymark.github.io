@@ -24,3 +24,10 @@ h2{
     color:#9B694D;
 }
 
+.square {
+  height: 50px;
+  width: 50px;
+  background-color: #555;
+}
+
+
