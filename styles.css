@@ -25,15 +25,7 @@ h2{
     color:#9B694D;
 }
 
-.square {
-  height: 100px;
-  width: 100px;
-  background-color: #555;
-}
-
 .rectangle {
-    height: 300px;
-    width: 500px;
     background-color: #555;
 }
 
