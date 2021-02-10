@@ -1,7 +1,7 @@
 @font-face {
     font-family: Amsterdam;
-    src: url("Amsterdam.otf") format("opentype");
-    font-variant: 3;
+    src: url("Amsterdam Variation_3.otf") format("opentype");
+    color:#f0efeb;
 }
 
 body {
