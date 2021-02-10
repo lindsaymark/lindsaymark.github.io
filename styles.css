@@ -15,10 +15,12 @@ body {
   }
 
 h1{
-    color:#9B694D;
-}
-
-h2{
     font-family: Amsterdam;
     color:sienna;
 }
+
+h2{
+    font-family: Hatton;
+    color:#9B694D;
+}
+
